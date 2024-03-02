@@ -430,11 +430,10 @@ footer{
         display: flex;
         flex-direction: row;
         gap: 10px;
-        img{
-            width: 50px;
-        }
     }
-
+    .ico img{
+        width: 50px;
+    }
 
 a{
     text-decoration: none;
